@@ -21,7 +21,7 @@ function mincost(arr)
 			});
 		}
 // return the min cost
-  retrun totalcost;
+  return totalcost;
 }
 
 module.exports=mincost;
